@@ -1,0 +1,19 @@
+1ere ligne hauteur/largeur
+- murs horizontaux
+| murs verticaux
+# couloirs
+. case vide
+E escalier
+% porte
+J joueur
+C coffre
+P piege
+o objet
+A armes
+a armures
+p potion
+G gobelin
+T troll
+D demon
+
+tout le reste monstre
